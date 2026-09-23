@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0270e2e36bdf38f4ad1cb9c2",
+  "owner": "kutxvvg3w",
+  "repo": "page-3f4ca99ddb38578c80ea663d",
+  "title": "万城(-Vcity)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3f4ca99ddb38578c80ea663d",
+      "a": "万城(-Vcity)",
+      "b": "2027官方最新地址导航",
+      "entity": "万城(-Vcity)",
+      "brand": "万城(-Vcity)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f5887faa4fc1b706ac760cce92f570a50f54abe495e61018930c8b283e13ece4",
+      "content": {
+        "primary_entity": "万城(-Vcity)",
+        "keyword1": "万城(-Vcity)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备选择匹配客户端，导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐对比开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，适合个人、多设备用户与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期整理关键差异。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，按年付仅需 ¥150/年。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，含 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "入门档位",
+          "AI_FEATURE_TITLE_2": "主力档位",
+          "AI_FEATURE_TITLE_3": "多设备档位",
+          "AI_GUIDE_INTRO": "按使用场景挑选套餐，确认设备适配，再导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "万城(-Vcity) 提供多档海外加速订阅，覆盖个人到团队场景，月付与年付可选，按设备数量与流量需求对比套餐即可。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "月付年付灵活可选",
+          "AI_HIGHLIGHT_2": "设备数量按档区分",
+          "AI_HIGHLIGHT_3": "多节点池供选择",
+          "AI_PLANS_INTRO": "对比三档套餐的月流量、设备数量与年付价格，选择匹配使用场景的一档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量需求，在基础版、旗舰版、团队版之间选择一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与客户端类型，查看对应客户端是否支持订阅导入。",
+          "AI_STEP_TEXT_3": "在客户端中按文档配置订阅地址，完成导入后测试节点延迟与可用性。",
+          "AI_STEP_TITLE_1": "选择档位",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "万城多档加速订阅",
+          "AI_FAQ_TITLE": "订阅与套餐常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出数量时，新设备可能无法连接，建议按实际设备数选择套餐。",
+          "AI_FAQ_QUESTION_2": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_2": "每月流量为套餐内额度，用完后可等待下个计费周期恢复，或升级到更高档位获得更多流量。团队版每月1000GB，适合多人共享。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付相当于支付十个月费用，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。功能与按月订阅一致，仅计费周期不同。",
+          "AI_FAQ_QUESTION_4": "如何在电脑或手机上配置订阅？",
+          "AI_FAQ_ANSWER_4": "先根据设备系统下载对应客户端，再导入订阅信息，选择节点即可。具体步骤以客户端内的说明为准，不同系统操作略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版适合需要流媒体解锁和游戏加速的个人用户，团队版适合多人共享、需要定制路由的团队，按实际人数和流量选择即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alhvow.com",
+    "host": "alhvow.com"
+  },
+  "file_hashes": {
+    "index.html": "fcb64c8c17ad478f3e5d7fbc5d23622ba862c8cdbf8e9de7265a6af13f9f6686",
+    "sitemap.xml": "6a262bd2bdc82e88b609b4bea006695108c0914cd2aaf673d4a850b1c3a0885d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c478788b8c641565853143bc1bb1fc36c1a104883fa55e39e99763f8fa61579e",
+    "robots.txt": "0236f79cc56d982a82fc5fc312053fe3717e30b90f7ba19315b1801db6f3980c",
+    "f358513655ba5f4d1d471286d676ae33.txt": "e1fae3e67500002dfcd2d9c3a7cfc567ba9f42d3742dc197bb1c745f612e092f"
+  },
+  "revision": "5ce613808b9090abd1f9f756d6c3b770eec76603c022d7d676fec1a35b2c973a"
+}
